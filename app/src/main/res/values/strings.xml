@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3pantallas</string>
+    <string name="mainActivity">Main Activity</string>
+    <string name="proxima_activity">Proxima Activity</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="thirdActivity">Third Activity</string>
+    <string name="volver">Volver</string>
+</resources>
